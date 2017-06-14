@@ -1,0 +1,120 @@
+xdslctl info --stats
+xdslctl: ADSL driver and PHY status
+Status: Showtime
+Last Retrain Reason:    1
+Last initialization procedure status:   0
+Max:    Upstream rate = 55368 Kbps, Downstream rate = 100960 Kbps
+Bearer: 0, Upstream rate = 16383 Kbps, Downstream rate = 68123 Kbps
+
+Link Power State:       L0
+Mode:                   VDSL2 Annex B
+VDSL2 Profile:          Profile 17a
+TPS-TC:                 PTM Mode
+Trellis:                U:ON /D:ON
+Line Status:            No Defect
+Training Status:        Showtime
+                Down            Up
+SNR (dB):        11.4            31.5
+Attn(dB):        0.0             0.0
+Pwr(dBm):        14.5            9.5
+
+                        VDSL2 framing
+                        Bearer 0
+MSGc:           14              42
+B:              47              31
+M:              1               1
+T:              64              64
+R:              14              10
+S:              0.0224          0.0620
+L:              22120           5418
+D:              723             71
+I:              62              42
+N:              62              42
+
+                        Counters
+                        Bearer 0
+OHF:            421784140               618032
+OHFErr:         9               1
+RS:             602380605               2428924
+RSCorr:         60088           195
+RSUnCorr:       171             0
+
+                        Bearer 0
+HEC:            44              0
+OCD:            2               0
+LCD:            2               0
+Total Cells:    2261297018              0
+Data Cells:     326994069               0
+Drop Cells:     0
+Bit Errors:     0               0
+
+ES:             14              56
+SES:            10              0
+UAS:            54              54
+AS:             607660
+
+                        Bearer 0
+INP:            1.50            0.50
+INPRein:        0.00            0.00
+delay:          4               1
+PER:            1.44            5.97
+OR:             111.05          64.24
+AgR:            68234.10        16447.75
+
+Bitswap:        6/6             67368/67368
+
+Total time = 1 days 10 hours 9 min 6 sec
+FEC:            81971           5813
+CRC:            3402            57
+ES:             14              56
+SES:            10              0
+UAS:            54              54
+LOS:            10              0
+LOF:            10              0
+LOM:            0               0
+Latest 15 minutes time = 9 min 6 sec
+FEC:            0               0
+CRC:            0               0
+ES:             0               0
+SES:            0               0
+UAS:            0               0
+LOS:            0               0
+LOF:            0               0
+LOM:            0               0
+Previous 15 minutes time = 15 min 0 sec
+FEC:            0               0
+CRC:            0               0
+ES:             0               0
+SES:            0               0
+UAS:            0               0
+LOS:            0               0
+LOF:            0               0
+LOM:            0               0
+Latest 1 day time = 10 hours 9 min 6 sec
+FEC:            3911            3
+CRC:            0               0
+ES:             0               0
+SES:            0               0
+UAS:            0               0
+LOS:            0               0
+LOF:            0               0
+LOM:            0               0
+Previous 1 day time = 24 hours 0 sec
+FEC:            10105           2
+CRC:            6               0
+ES:             2               0
+SES:            0               0
+UAS:            0               0
+LOS:            0               0
+LOF:            0               0
+LOM:            0               0
+Since Link time = 7 days 47 min 39 sec
+FEC:            60088           195
+CRC:            9               1
+ES:             4               1
+SES:            0               0
+UAS:            0               0
+LOS:            0               0
+LOF:            0               0
+LOM:            0               0
+# 
